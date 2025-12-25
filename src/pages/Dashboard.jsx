@@ -50,7 +50,7 @@ export default function Dashboard() {
       
       {/* Seção Superior: Título e Controles Rápidos */}
       <section className="dashboard-header">
-        <h1>PostureCheck</h1>
+        <h1>Posture-Check</h1>
         
         <div className="controls">
           <StatusCard angulo={current.angulo} estado={current.estado} />
